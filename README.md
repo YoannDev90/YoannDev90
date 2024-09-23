@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YoannDev90, I'm a French dev
+- 👀 I’m coding in C#, Python, HTML/CSS
+- 🌱 I’m currently learning AI, Game Dev
+- 💞️ I’m looking to collaborate on Discord bots, Minecraft AI Project
+- 😄 Pronouns: he/him
