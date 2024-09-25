@@ -6,7 +6,6 @@
 - 📫 How to reach me **yoanndev@outlook.fr**
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">I code in :</h4>
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -20,10 +19,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a>
-</p>
-<h4 align="left">I use :</h4>
-<p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-</a>  
+</a>
 </p>
