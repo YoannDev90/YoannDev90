@@ -1,36 +1,17 @@
-<style>
-    .button-group {
-        display: flex;
-        justify-content: center;
-        gap: 15px;
-        margin-top: 10px;
-    }
-    
-    .button {
-        text-decoration: none;
-        padding: 10px 20px;
-        background-color: #0366d6;
-        color: white;
-        border-radius: 6px;
-        font-weight: bold;
-        transition: background-color 0.3s ease;
-    }
-    
-    .button:hover {
-        background-color: #0255a3;
-    }
-</style>
+# Hi 👋, I'm Yoann !
 
-<h1 align="center">Hi 👋, I'm Yoann !</h1> 
-<h3 align="center">A developer from Belfort, France.</h3> 
-<p align="center">- 📫 How to reach me <a href="mailto:yoanndev@outlook.fr">yoanndev@outlook.fr</a></p>
-<h3 align="center">Projects:</h3>
-<div class="button-group">
-  <a href="https://github.com/PyPassManager/" class="button">PyPassManager</a>
-  <a href="https://github.com/YoannDev90/PerplexityLLM" class="button">PerplexityLLM</a>
-  <a href="https://github.com/YoannDev90/AlphaLLM" class="button">AlphaLLM</a>
-</div>
-<h3 align="center">Languages and tools:</h3> 
+### A developer from Belfort, France.
+
+- 📫 How to reach me [yoanndev@outlook.fr](mailto:yoanndev@outlook.fr)
+
+### Projects:
+
+[![PyPassManager](https://img.shields.io/badge/-PyPassManager-0366d6?style=for-the-badge)](https://github.com/PyPassManager/)
+[![PerplexityLLM](https://img.shields.io/badge/-PerplexityLLM-0366d6?style=for-the-badge)](https://github.com/YoannDev90/PerplexityLLM)
+[![AlphaLLM](https://img.shields.io/badge/-AlphaLLM-0366d6?style=for-the-badge)](https://github.com/YoannDev90/AlphaLLM)
+
+### Languages and tools:
+
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> 
