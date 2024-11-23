@@ -1,8 +1,31 @@
+<style>
+    .button-group {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 10px;
+    }
+    
+    .button {
+        text-decoration: none;
+        padding: 10px 20px;
+        background-color: #0366d6;
+        color: white;
+        border-radius: 6px;
+        font-weight: bold;
+        transition: background-color 0.3s ease;
+    }
+    
+    .button:hover {
+        background-color: #0255a3;
+    }
+</style>
+
 <h1 align="center">Hi 👋, I'm Yoann !</h1> 
 <h3 align="center">A developer from Belfort, France.</h3> 
 <p align="center">- 📫 How to reach me <a href="mailto:yoanndev@outlook.fr">yoanndev@outlook.fr</a></p>
 <h3 align="center">Projects:</h3>
-<div class="button-group" align="center">
+<div class="button-group">
   <a href="https://github.com/PyPassManager/" class="button">PyPassManager</a>
   <a href="https://github.com/YoannDev90/PerplexityLLM" class="button">PerplexityLLM</a>
   <a href="https://github.com/YoannDev90/AlphaLLM" class="button">AlphaLLM</a>
