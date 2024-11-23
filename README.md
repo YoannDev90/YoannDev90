@@ -4,9 +4,9 @@
 <p align="center">- 📫 How to reach me <a href="mailto:yoanndev@outlook.fr">yoanndev@outlook.fr</a></p>
 <h3 align="center">Public projects:</h3>
 <p align="center">
-  <p>PyPassManager</p>
-  <p>PerplexityLLM</p>
-  <p>AlphaLLM</p>
+  <p align="center">PyPassManager</p>
+  <p align="center">PerplexityLLM</p>
+  <p align="center">AlphaLLM</p>
 <h3 align="center">Languages and tools:</h3> 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/> 
