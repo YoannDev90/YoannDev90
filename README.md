@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoann !</h1>
 <h3 align="center">A developer from Belfort, France.</h3>
 
-<p align="center"> - 🔭 I’m currently working on <b></b>PerplexityLLM</b></p>
+<p align="center"> - 🔭 I’m currently working on <b>PerplexityLLM</b></p>
 
 <p align="center">- 📫 How to reach me yoanndev@outlook.fr</p>
 
