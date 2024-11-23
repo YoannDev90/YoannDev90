@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yoann !</h1>
 <h3 align="center">A developer from Belfort, France.</h3>
 
-- 🔭 I’m currently working on **PerplexityLLM**
+<p align="center"> - 🔭 I’m currently working on <b></b>PerplexityLLM</b></p>
 
-- 📫 How to reach me **yoanndev@outlook.fr**
+<p align="center">- 📫 How to reach me yoanndev@outlook.fr</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> 
