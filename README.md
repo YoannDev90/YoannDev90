@@ -3,9 +3,9 @@
 <p align="center">- 📫 How to reach me <a href="mailto:yoanndev@outlook.fr">yoanndev@outlook.fr</a></p>
 <h3 align="center">Projects:</h3>
 <p align="center">
-  <p align="center">PyPassManager</p>
-  <p align="center">PerplexityLLM</p>
-  <p align="center">AlphaLLM</p>
+  <p align="center"><a href="https://github.com/PyPassManager/">PyPassManager</a></p>
+  <p align="center"><a href="https://github.com/YoannDev90/PerplexityLLM">PerplexityLLM</a></p>
+  <p align="center"><a href="https://github.com/YoannDev90/AlphaLLM">AlphaLLM</a></p>
 <h3 align="center">Languages and tools:</h3> 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/> 
