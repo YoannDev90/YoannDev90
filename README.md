@@ -9,7 +9,7 @@
 [![PyPassManager](https://img.shields.io/badge/-PyPassManager-0366d6?style=for-the-badge)](https://github.com/PyPassManager/)
 [![PerplexityLLM](https://img.shields.io/badge/-PerplexityLLM-0366d6?style=for-the-badge)](https://github.com/YoannDev90/PerplexityLLM)
 [![AlphaLLM](https://img.shields.io/badge/-AlphaLLM-0366d6?style=for-the-badge)](https://github.com/YoannDev90/AlphaLLM)
-[![AlphaLLM V2.0](https://img.shields.io/badge/-AlphaLLM-0366d6?style=for-the-badge)](https://github.com/YoannDev90/AlphaLLM-v2)
+[![AlphaLLM V2.0](https://img.shields.io/badge/-AlphaLLM-v2-0366d6?style=for-the-badge)](https://github.com/YoannDev90/AlphaLLM-v2)
 
 ### Languages and tools:
 
