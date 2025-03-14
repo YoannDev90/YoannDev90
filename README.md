@@ -7,7 +7,7 @@
 ### Projects:
 
 [![PyPassManager](https://img.shields.io/badge/-PyPassManager-0366d6?style=for-the-badge)](https://github.com/PyPassManager/)
-[![AlphaLLM](https://img.shields.io/badge/-AlphaLLM-0366d6?style=for-the-badge)](https://github.com/AlphaLLM/AlphaLLM)
+[![AlphaLLM](https://img.shields.io/badge/-AlphaLLM-0366d6?style=for-the-badge)](https://github.com/YoannDev90/AlphaLLM)
 
 ### Languages and tools:
 
