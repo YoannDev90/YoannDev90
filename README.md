@@ -7,7 +7,7 @@
 
 ## À propos de moi
 
-- 🔭 I’m currently working on [AlphaLLM](https://github.com/YoannDev90/AlphaLLM) and [PyPassManager](https://github.com/PyPassManager)
+- 🔭 I’m currently working on [AlphaLLM](https://github.com/YoannDev90/AlphaLLM)
 - 💬 Ask me about **french translations**
 - 📫 How to reach me **yoanndev@outlook.fr**
 
