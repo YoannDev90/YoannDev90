@@ -4,6 +4,9 @@
 <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoanndev90&show_icons=true&locale=en&layout=compact&style=dark" alt="yoanndev90"/>
 </div>
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=YoannDev90&theme=default&show_icons=true&hide_border=true&count_private=true" alt="YoannDev90's GitHub Stats" />
+</div> 
 
 ## À propos de moi
 
