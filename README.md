@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [AlphaLLM](https://github.com/YoannDev90/AlphaLLM)
 - 💬 Ask me about **french translations**
-- 📫 How to reach me **yoanndev@outlook.fr**
+- 📫 How to reach me **yoanndev[@]outlook.fr**
 
 ## Compétences
 
