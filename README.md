@@ -38,27 +38,27 @@
 
 <div align="center">
 
-**🤖 Multi-model support**  
+## **🤖 Multi-model support**  
 _GPT, Llama, DeepSeek, Gemini, Mistral, Qwen, Perplexity_
 
 ---
 
-**🖼️ High-quality image generation**  
+## **🖼️ High-quality image generation**  
 _Flux, Z-Image, NanoBanana, Seedream, GPT-Image_
 
 ---
 
-**🔗 Automatic link & file processing**  
+## **🔗 Automatic link & file processing**  
 _Crawl4AI + Markitdown_
 
 ---
 
-**📄 Advanced Markdown formatting**  
+## **📄 Advanced Markdown formatting**  
 _for Discord_
 
 ---
 
-**💳 Fully free !**
+## **💳 Fully free !**
 
 </div>
 
