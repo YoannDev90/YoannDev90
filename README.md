@@ -86,11 +86,11 @@ _for Discord_
 
 <div align="center">
   
-![Yoann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Yoann's GitHub Stats](http://github-readme-stats-six-beta-16.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoannDev90&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoannDev90&layout=compact&theme=tokyonight&langs_count=10)
+![Top Languages](http://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&layout=compact&theme=tokyonight&langs_count=10)
 
 </div>
 
@@ -110,11 +110,11 @@ _for Discord_
 
 <div align="center">
 
-[![AlphaLLM](https://github-readme-stats.vercel.app/api/pin/?username=YoannDev90&repo=AlphaLLM&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/AlphaLLM)
+[![AlphaLLM](http://github-readme-stats-six-beta-16.vercel.app//api/pin/?username=YoannDev90&repo=AlphaLLM&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/AlphaLLM)
 
-[![awesome-free-ai-api](https://github-readme-stats.vercel.app/api/pin/?username=YoannDev90&repo=awesome-free-ai-api&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/awesome-free-ai-api)
+[![awesome-free-ai-api](http://github-readme-stats-six-beta-16.vercel.app//api/pin/?username=YoannDev90&repo=awesome-free-ai-api&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/awesome-free-ai-api)
 
-[![LLM-Selector](https://github-readme-stats.vercel.app/api/pin/?username=YoannDev90&repo=LLM-Selector&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/LLM-Selector)
+[![LLM-Selector](http://github-readme-stats-six-beta-16.vercel.app//api/pin/?username=YoannDev90&repo=LLM-Selector&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/LLM-Selector)
 
 </div>
 
