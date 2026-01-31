@@ -86,11 +86,11 @@ _for Discord_
 
 <div align="center">
   
-![Yoann's GitHub Stats](http://github-readme-stats-six-beta-16.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Yoann's GitHub Stats](http://github-readme-stats-six-beta-16.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=500)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoannDev90&theme=tokyonight)
 
-![Top Languages](http://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&layout=compact&theme=tokyonight&langs_count=10)
+![Top Languages](http://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&layout=compact&theme=tokyonight&langs_count=12&card_width=500)
 
 </div>
 
