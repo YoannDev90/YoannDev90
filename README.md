@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### **[AlphaLLM](https://github.com/YoannDev90/AlphaLLM)** - An advanced AI-powered Discord bot integrating 25 text models and 5 image models.
+### **[AlphaLLM](https://github.com/YoannDev90/AlphaLLM)** - An advanced AI-powered Discord bot integrating 20 text models and 5 image models.
 
 ---
 
