@@ -91,7 +91,7 @@ _Crawl4AI + Markitdown_
   
 ![Yoann's GitHub Stats](http://github-readme-stats-six-beta-16.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=500)
 
-![Top Languages](http://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&layout=compact&theme=tokyonight&langs_count=12&card_width=500)
+![Top Languages](https://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&theme=tokyonight&langs_count=6&card_width=500)
 
 </div>
 
