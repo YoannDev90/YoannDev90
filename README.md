@@ -39,9 +39,13 @@
 <div align="center">
 
 ## **🤖 Multi-model support**  
-_ChatGPT, Claude, Cohere, DeepSeek, EvilGPT, Gemini, GLM, Granite, Grok, Hermes,_
+_GPT, Claude, Cohere, DeepSeek, EvilGPT,_
 
-_Kimi, Llama, LongCat, MiniMax, Mistral, Nemotron, Phi, Qwen, Sonar, Yi, and more._
+_Gemini, GLM, Granite, Grok, Hermes,_
+
+_Kimi, Llama, LongCat, MiniMax, Mistral,_
+
+_Nemotron, Phi, Qwen, Sonar, Yi, and more._
 
 ---
 
@@ -55,8 +59,7 @@ _Crawl4AI + Markitdown_
 
 ---
 
-## **📄 Advanced Markdown formatting**  
-_for Discord_
+## **📄 Advanced Markdown formatting for Discord**  
 
 ---
 
@@ -88,33 +91,21 @@ _for Discord_
   
 ![Yoann's GitHub Stats](http://github-readme-stats-six-beta-16.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=500)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoannDev90&theme=tokyonight)
-
 ![Top Languages](http://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&layout=compact&theme=tokyonight&langs_count=12&card_width=500)
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🌟 Featured Repositories
 
 <div align="center">
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=YoannDev90&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+[![AlphaLLM](http://github-readme-stats-six-beta-16.vercel.app/api/pin/?username=YoannDev90&repo=AlphaLLM&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/AlphaLLM)
 
-</div>
+[![awesome-free-ai-api](http://github-readme-stats-six-beta-16.vercel.app/api/pin/?username=YoannDev90&repo=awesome-free-ai-api&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/awesome-free-ai-api)
 
----
-
-## 🌟 Featured Repository
-
-<div align="center">
-
-[![AlphaLLM](http://github-readme-stats-six-beta-16.vercel.app//api/pin/?username=YoannDev90&repo=AlphaLLM&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/AlphaLLM)
-
-[![awesome-free-ai-api](http://github-readme-stats-six-beta-16.vercel.app//api/pin/?username=YoannDev90&repo=awesome-free-ai-api&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/awesome-free-ai-api)
-
-[![LLM-Selector](http://github-readme-stats-six-beta-16.vercel.app//api/pin/?username=YoannDev90&repo=LLM-Selector&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/LLM-Selector)
+[![LLM-Selector](http://github-readme-stats-six-beta-16.vercel.app/api/pin/?username=YoannDev90&repo=LLM-Selector&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/LLM-Selector)
 
 </div>
 
