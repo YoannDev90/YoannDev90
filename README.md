@@ -50,7 +50,7 @@ _Nemotron, Phi, Qwen, Sonar, Yi, and more._
 ---
 
 ## **🖼️ High-quality image generation**  
-_Flux, Z-Image, NanoBanana, Seedream, GPT-Image_
+_Flux, Z-Image, GPT-Image_
 
 ---
 
