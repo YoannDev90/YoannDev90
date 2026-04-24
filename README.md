@@ -76,20 +76,6 @@ _Full emojis, markdown, tables support_
 
 ---
 
-## 🌟 Featured Repositories
-
-<div align="center">
-
-[![AlphaLLM](http://github-readme-stats-six-beta-16.vercel.app/api/pin/?username=YoannDev90&repo=AlphaLLM&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/AlphaLLM)
-
-[![awesome-free-ai-api](http://github-readme-stats-six-beta-16.vercel.app/api/pin/?username=YoannDev90&repo=awesome-free-ai-api&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/awesome-free-ai-api)
-
-[![LLM-Selector](http://github-readme-stats-six-beta-16.vercel.app/api/pin/?username=YoannDev90&repo=LLM-Selector&theme=tokyonight&show_owner=true)](https://github.com/YoannDev90/LLM-Selector)
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 <div align="center">
