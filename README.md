@@ -6,7 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/YoannDev90?style=for-the-badge)](https://github.com/YoannDev90)
 [![GitHub stars](https://img.shields.io/github/stars/YoannDev90?style=for-the-badge)](https://github.com/YoannDev90)
-[![Email](https://img.shields.io/badge/Email-yoanndev%40outlook.fr-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:yoanndev@outlook.fr)
 ![Profile Views](https://komarev.com/ghpvc/?username=YoannDev90&color=blueviolet&style=for-the-badge)
 
 </div>
@@ -17,7 +16,7 @@
 
 <div align="center">
 
-### **[AlphaLLM](https://github.com/YoannDev90/AlphaLLM)** - An advanced AI-powered Discord bot integrating 20 text models and 5 image models.
+### **[AlphaLLM](https://github.com/YoannDev90/AlphaLLM)** - An advanced AI-powered Discord bot integrating 10 text models and 3 image models.
 
 ---
 
