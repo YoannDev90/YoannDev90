@@ -35,71 +35,44 @@
 
 ---
 
-<div align="center">
-
-## **🤖 Multi-model support**  
+### **🤖 Multi-model support**
 _GPT, Claude, DeepSeek, Gemini, GLM, Grok, Llama, Mistral, Qwen, Sonar_
 
----
-
-## **🖼️ High-quality image generation**  
+### **🖼️ High-quality image generation**  
 _Flux, Z-Image, GPT-Image_
 
----
-
-## **🔗 Automatic link & file processing**  
+### **🔗 Automatic link & file processing**  
 _Crawl4AI + Markitdown_
 
----
-
-## **📄 Advanced Markdown formatting for Discord**  
+### **📄 Advanced Markdown formatting for Discord**  
 _Full emojis, markdown, tables support_
 
 ---
 
-## **💳 Fully free !**
-
-</div>
-
----
-
 ## 📊 GitHub Stats
-
-<div align="center">
   
 ![Yoann's GitHub Stats](http://github-readme-stats-six-beta-16.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=500)
 
 ![Top Languages](https://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&theme=tokyonight&langs_count=6&card_width=500)
 
-</div>
-
 ---
 
 ## 🤝 Contributing
 
-<div align="center">
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)
-
-</div>
 
 ---
 
 ## 📫 Get in Touch
 
-<div align="center">
-
 [![Email](https://img.shields.io/badge/Email-yoanndev%40outlook.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoanndev@outlook.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-YoannDev90-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoannDev90)
-
-</div>
 
 ---
 
 ## 📈 Activity Graph
-
-<div align="center">
 
 [![Yoann's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoannDev90&theme=tokyo-night)](https://github.com/YoannDev90)
 
