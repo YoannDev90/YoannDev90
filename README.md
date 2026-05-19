@@ -41,7 +41,7 @@ _Full emojis, markdown, tables support_
 
 ## 📊 GitHub Stats
   
-![Yoann's GitHub Stats](http://github-readme-stats-six-beta-16.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=500)
+![Yoann's GitHub Stats](https://github-readme-stats-six-beta-16.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=500&show=reviews,prs_merged,prs_merged_percentage)
 
 ![Top Languages](https://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=500)
 
