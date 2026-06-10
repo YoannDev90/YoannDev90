@@ -16,10 +16,8 @@
 
 ### **[AlphaLLM](https://github.com/YoannDev90/AlphaLLM)** - An advanced AI-powered Discord bot integrating 10 text models and 3 image models.
 
-[![Site](https://img.shields.io/badge/Site_AlphaLLM-37a779?style=for-the-badge&logo=github&logoColor=white)](https://alphallm.tech)
-[![Statut](https://img.shields.io/badge/Statut-4285f4?style=for-the-badge&logo=google&logoColor=white)](https://alphallm.tech/status)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QGvyrUgwdK)
-[![Bot](https://img.shields.io/badge/Invite_Bot-57F287?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/api/oauth2/authorize?client_id=1286951908786962442&permissions=8&scope=bot)
+[![Bot](https://img.shields.io/badge/Invite_Bot-57F287?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/oauth2/authorize?client_id=1513828113627222016)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/YoannDev90/AlphaLLM?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/YoannDev90/AlphaLLM?style=for-the-badge)
