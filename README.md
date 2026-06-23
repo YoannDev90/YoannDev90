@@ -8,40 +8,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/YoannDev90?style=for-the-badge)](https://github.com/YoannDev90)
 ![Profile Views](https://komarev.com/ghpvc/?username=YoannDev90&color=blueviolet&style=for-the-badge)
 
-</div>
-
-## 🔭 Current Project
-
-<div align="center">
-
-### **[AlphaLLM](https://github.com/YoannDev90/AlphaLLM)** - An advanced AI-powered Discord bot integrating 10 text models and 3 image models.
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QGvyrUgwdK)
-[![Bot](https://img.shields.io/badge/Invite_Bot-57F287?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/oauth2/authorize?client_id=1513828113627222016)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/YoannDev90/AlphaLLM?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YoannDev90/AlphaLLM?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/YoannDev90/AlphaLLM?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YoannDev90/AlphaLLM?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/YoannDev90/AlphaLLM?style=for-the-badge)
-
-### **🤖 Multi-model support**
-_GPT, Claude, DeepSeek, Gemini, GLM, Grok, Llama, Mistral, Qwen, Sonar_
-
-### **🖼️ High-quality image generation**  
-_Flux, Z-Image, GPT-Image_
-
-### **🔗 Automatic link & file processing**  
-_Crawl4AI + Markitdown_
-
-### **📄 Advanced Markdown formatting for Discord**  
-_Full emojis, markdown, tables support_
-
 ## 📊 GitHub Stats
   
 ![Yoann's GitHub Stats](https://github-readme-stats-six-beta-16.vercel.app/api?username=YoannDev90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=500&show=reviews,prs_merged,prs_merged_percentage)
 
-![Top Languages](https://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=500)
+![Top Languages](https://github-readme-stats-six-beta-16.vercel.app/api/top-langs/?username=YoannDev90&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&card_width=500)
 
 ## 📫 Get in Touch
 
